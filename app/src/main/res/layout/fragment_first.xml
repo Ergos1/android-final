@@ -5,12 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".ui.fragments.FirstFragment">
 
-    <TextView
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:text="Co"
-        />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/country_list"
         android:layout_width="match_parent"

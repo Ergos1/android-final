@@ -14,7 +14,7 @@
             android:id="@+id/page_title"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Course Detail"
+            android:text="Country Detail"
             android:textAlignment="center"
             android:textSize="@dimen/country_detail_text_size"
             app:layout_constraintBottom_toTopOf="@id/country_name"
